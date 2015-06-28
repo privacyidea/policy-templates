@@ -1,5 +1,7 @@
 {
- "enroll-tokenlabel": "Set the tokenlabel of a Google Authenticator to a sensible value during enrollment.",
- "selfservie1": "Users authenticate against privacyIDEA."
+ "enroll_tokenlabel": "Set the tokenlabel of a Google Authenticator to a sensible value during enrollment.",
+ "selfservice1": "Some sensible actions for users in the WebUI.",
+ "webui1": "Users need to authenticate against privacyIDEA.",
+ "webui2": "Users need to authenticate against their userstore."
 }
 
