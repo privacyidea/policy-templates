@@ -1,4 +1,5 @@
 {"name": "enroll-tokenlabel",
  "description": "Set the tokenlabel of a Google Authenticator to a sensible value.",
  "scope": "enrollment",
- "tokenlabel": "<u>@<r>/<s>"}
+ "action": {"tokenlabel": "<u>@<r>/<s>"}
+}
