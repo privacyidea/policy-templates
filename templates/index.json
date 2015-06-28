@@ -1,4 +1,3 @@
-[{'name': 'enroll-tokenlabel',
-  'description': 'Set the tokenlabel of a Google Authenticator to a sensible value during enrollment'}
-  
-  ]
+[{name: "enroll-tokenlabel",
+  description: "Set the tokenlabel of a Google Authenticator to a sensible value during enrollment"}
+]
