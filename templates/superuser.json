@@ -47,7 +47,7 @@
             "resolverwrite": true,
             "updateuser": true,
             "enrollU2F": true,
-            "mange_machine_tokens": true,
+            "mangle_machine_tokens": true,
             "system_documentation": true,
             "caconnectordelete": true,
             "caconnectorwrite": true,
