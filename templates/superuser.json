@@ -59,6 +59,8 @@
             "enrollYUBIKEY": true,
             "enrollDAPLUG": true,
             "mresolverwrite": true,
-            "enrollSSHKEY": true
+            "enrollSSHKEY": true,
+            "manage_machine_tokens": true,
+            "smtpserver_write": true
 }
 }
