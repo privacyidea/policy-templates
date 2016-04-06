@@ -61,6 +61,7 @@
             "mresolverwrite": true,
             "enrollSSHKEY": true,
             "manage_machine_tokens": true,
-            "smtpserver_write": true
+            "smtpserver_write": true,
+            "radiusserver_write": true,
 }
 }
