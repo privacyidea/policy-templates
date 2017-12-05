@@ -38,6 +38,7 @@
             "enrollMOTP": true,
             "enrollPW": true,
             "enrollHOTP": true,
+            "enrollOCRA": true,
             "enrollQUESTION": true,
             "enrollCERTIFICATE": true,
             "configwrite": true,
@@ -62,6 +63,16 @@
             "enrollSSHKEY": true,
             "manage_machine_tokens": true,
             "smtpserver_write": true,
-            "radiusserver_write": true
+            "radiusserver_write": true,
+            "auditlog_download": true,
+            "clienttype": true,
+            "enrollpin": true,
+            "eventhandling_write": true,
+            "privacyideaserver_write": true,
+            "settokeninfo": true,
+            "settokeninfo": true,
+            "smsgateway_write": true,
+            "triggerchallenge": true,
+            "managesubscription": true
 }
 }
