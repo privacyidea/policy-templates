@@ -73,6 +73,13 @@
             "settokeninfo": true,
             "smsgateway_write": true,
             "triggerchallenge": true,
-            "managesubscription": true
+            "managesubscription": true,
+            "enrollPUSH": true,
+            "enrollTAN": true,
+            "enrollVASCO": true,
+            "periodictask_write": true,
+            "statistics_read": true,
+            "statistics_delete": true
+
 }
 }
