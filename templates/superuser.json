@@ -79,7 +79,18 @@
             "enrollVASCO": true,
             "periodictask_write": true,
             "statistics_read": true,
-            "statistics_delete": true
+            "statistics_delete": true,
+            "radiusserver_read": true,
+            "tokenlist": true,
+            "policyread": true,
+            "mresolverread": true,
+            "configread": true,
+            "smsgateway_read": true,
+            "privacyideaserver_read": true,
+            "resolverread": true,
+            "eventhandling_read": true,
+            "smtpserver_read": true,
+            "periodictask_read": true
 
 }
 }
