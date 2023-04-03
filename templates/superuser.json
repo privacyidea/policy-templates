@@ -97,6 +97,13 @@
             "tokengroup_delete": true,
             "tokengroups": true,
             "tokengroup_list": true,
-            "tokengroup_add": true
+            "tokengroup_add": true,
+            "serviceid_add": true,
+            "serviceid_delete": true,
+            "serviceid_list": true,
+            "enrollAPPLSPEC": true,
+            "daypassword_force_server_generate": true,
+            "enrollDAYPASSWORD": true,
+            "setdescription": true
     }
 }
