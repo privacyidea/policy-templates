@@ -104,6 +104,16 @@
             "enrollAPPLSPEC": true,
             "daypassword_force_server_generate": true,
             "enrollDAYPASSWORD": true,
-            "setdescription": true
+            "setdescription": true,
+            "container_description": true,
+            "container_info": true,
+            "container_state": true,
+            "container_create": true,
+            "container_delete": true,
+            "container_add_token": true,
+            "container_remove_token": true,
+            "container_assign_user": true,
+            "container_unassign_user": true,
+            "container_realms": true
     }
 }
