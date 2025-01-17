@@ -115,6 +115,7 @@
             "container_assign_user": true,
             "container_unassign_user": true,
             "container_realms": true,
-            "container_list": true
+            "container_list": true,
+            "enrollPASSKEY": true
     }
 }
