@@ -116,6 +116,12 @@
             "container_unassign_user": true,
             "container_realms": true,
             "container_list": true,
-            "enrollPASSKEY": true
+            "enrollPASSKEY": true,
+            "container_register": true,
+            "container_unregister": true,
+            "container_rollover": true,
+            "container_template_create": true,
+            "container_template_delete": true,
+            "container_template_list": true
     }
 }
